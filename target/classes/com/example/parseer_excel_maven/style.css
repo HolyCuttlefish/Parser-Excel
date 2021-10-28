@@ -1,0 +1,11 @@
+VBox{
+    -fx-background-color: #FFE4C4;
+}
+
+.table-row-cell:odd{
+   -fx-background-color: #A0522D;
+}
+
+.table-row-cell:even{
+   -fx-background-color: #808000;
+}
